@@ -1,0 +1,94 @@
+body{
+	font-family: 'Lato', sans-serif;
+	background-image: url(http://24.media.tumblr.com/119008203b98b823810c0291f118cb24/tumblr_mludmok6Wq1s27k5lo1_500.gif);
+
+}
+
+img{
+	max-width: 100%;
+}
+
+.quitar-float{
+	float: none;
+}
+
+.espacio-arriba{
+	margin-top: 100px;
+}
+
+.pacifico{
+	font-family: 'Pacifico', cursive;
+	color: #1AA399;
+}
+
+.grande{
+	font-size: 3em;
+}
+
+.rosa{
+	color: #E80C7A;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin: -4px;
+}
+
+.no-lista{
+	margin: 0;
+	padding: 10px;
+}
+
+.no-lista li{
+	list-style-type: none;
+}
+
+.padding-largo{
+	padding: 5px 10px;
+}
+
+.se-gris{
+	background-color: #FCC9BD;
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+
+a{
+	color: #0E546E;
+	font-size: 15px;
+}
+
+.parrafo{
+	margin: 22px;
+	color: #1AA399;
+	font-size: 22px;
+	font-family: sans-serif;
+}
+
+.mediano{
+	font-size: 1.5em;
+}
+
+.footer{
+	background-color:#E80C7A; 
+	padding: 20px 30px;
+	
+	color: #fff;
+	text-align: center;
+}
+
+.azul{
+	color: #1AA399;
+}
+
+.nosotras img{
+	 width: 30%;
+	 margin-top: 20px;
+     -moz-border-radius: 40%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+    
+}
+
